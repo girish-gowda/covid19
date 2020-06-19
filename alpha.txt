@@ -1,0 +1,11 @@
+The number of new cases are increasing day by day around the world. This dataset has information from the states and union territories of India at daily level.
+
+COVID-19 cases at daily level is present in covid_19_india.csv file
+
+Individual level details are present in IndividualDetails.csv file and is obtained from this link
+
+Population at state level is present in population_india_census2011.csv file
+
+Number of COVID-19 tests at daily level in ICMRTestingDetails.csv file
+
+Number of hospital beds in each state in present in HospitalBedsIndia.csv file and is extracted from this link
